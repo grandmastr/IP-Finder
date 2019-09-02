@@ -16,7 +16,7 @@ const questions = [{
 
 let loading = false;
 
-const API_KEY = '20a90dc84912db17fd28c901deb810c4';
+const API_KEY = 'API_KEY';
 const BASE_IRL = 'http://api.ipstack.com/';
 const IP = '197.210.64.65';
 
