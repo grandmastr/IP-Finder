@@ -32,6 +32,6 @@ npm run app:start
 
 To contribute, fork this repo, write your contribution and submit a Pull Request.
 
-## License 🧾
+## License
 MIT
 
