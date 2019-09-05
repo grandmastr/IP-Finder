@@ -1,4 +1,4 @@
-const chalk = require("chalk");
+const chalk = require('chalk');
 
 // render red text
 const renderRedText = text => {
@@ -25,5 +25,5 @@ module.exports = {
   renderRedText,
   renderBlueText,
   renderGreenText,
-  renderYellowText
+  renderYellowText,
 };
