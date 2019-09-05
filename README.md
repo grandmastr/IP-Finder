@@ -26,7 +26,7 @@ Start the application
 npm run app:start
 ```
 
-## Contribution 🎉
+## Contributions 🎉
 - [Ezekiel Oladejo](https://github.com/iamwebwiz)
 - [Israel Akintunde](https://github.com/theGrandmaster05)
 
